@@ -18,12 +18,21 @@ Repo này hoàn toàn **MIỄN PHÍ**, dành tặng cho cộng đồng Xóm viê
 
 | 📁 Thư mục | 🔍 Chủ đề | 📄 Ví dụ tài liệu |
 |-----------|-----------|------------------|
-| `Chủ đề Analytical Thinking & Problem Solving` | Tư duy phân tích & giải quyết vấn đề | `Problem Solving 101.pdf`, `Thinking with Data.pdf`... |
-| `Chủ đề Data Science & Analytics` | Nền tảng & ứng dụng phân tích dữ liệu | `Data Analytics - Concepts, Techniques and Applications.pdf`... |
-| `Chủ đề Data Visualization` | Trực quan hóa dữ liệu & kể chuyện | `Storytelling with Data - P1`, `The Design Thinking Playbook.pdf` ...|
-| `Chủ đề Statistics` | Thống kê ứng dụng trong Data | `Naked Statistics.pdf`, `How to Lie with Statistics.pdf` ...|
-| `Chủ đề Tools` | Công cụ kỹ thuật: Python, SQL, ... | `Python for Data Analysis.pdf`, `SQL Cookbook.pdf` ... |
-| `Chủ đề khác mình đang update` | Đang update | `Đang update` ...|
+| `01_Data_Foundations/Analytical_Thinking` | Tư duy phân tích & giải quyết vấn đề | `Problem Solving 101.pdf`, `Thinking with Data.pdf` |
+| `01_Data_Foundations/Statistics_and_Math` | Thống kê & Toán học cho Data | `Naked Statistics.pdf`, `Introduction to Statistical Learning.pdf` |
+| `02_Data_Tools/Excel` | Phân tích dữ liệu bằng Excel | `Excel Dashboards and Reports`, `Power Pivot for Excel` |
+| `02_Data_Tools/Power BI` | Làm Dashboard với Power BI | `DAX Patterns.pdf`, `Introducing Power BI.pdf` |
+| `02_Data_Tools/Python` | Phân tích & xử lý dữ liệu với Python | `Python for Data Analysis`, `Data Analytics - Dr. Anil Maheshwari.pdf` |
+| `02_Data_Tools/SQL` | Học và thực hành SQL | `SQL Cookbook`, `SQL for Data Analysis` |
+| `02_Data_Tools/R` | Phân tích dữ liệu với R | `R in Action`, `Time Series with R` |
+| `02_Data_Tools/Tableau` | Trực quan hóa dữ liệu với Tableau | `Mastering Tableau 2021` |
+| `03_Data_Visualization/Storytelling` | Kể chuyện bằng dữ liệu | `Storytelling with Data - P1`, `P2`, `P3` |
+| `03_Data_Visualization/Best_Practices` | Nguyên tắc thiết kế dashboard | `10 Visualization Tips`, `How to Design a Dashboard` |
+| `04_Data_Science_and_Analytics/Applied_Analytics` | Ứng dụng Data Science & ML | `Machine Learning Mastery with Python`, `Python Data Science Handbook` |
+| `04_Data_Science_and_Analytics/Core_Concepts` | Kiến thức cốt lõi ngành Data | `Data Science for Dummies`, `The Field Guide to Data Science` |
+| `05_Data_Engineering/Data_Warehousing` | Kho dữ liệu & mô hình dữ liệu | `The Data Warehouse Toolkit`, `Data Modeling with Snowflake` |
+| `05_Data_Engineering/ETL_and_Pipelines` | Thiết kế hệ thống dữ liệu | `Designing Data-Intensive Applications`, `Fundamentals of Data Engineering` |
+| `05_Data_Engineering/Big_Data_and_Distributed_Systems` | Big Data & hệ phân tán | `Hadoop Definitive Guide`, `Spark - The Definitive Guide` |
 
 ---
 
