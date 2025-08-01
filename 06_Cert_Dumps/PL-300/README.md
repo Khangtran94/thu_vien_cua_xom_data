@@ -1,4 +1,4 @@
-# Resource
+# Resource thi PL-300
 
 - Microsoft Learn: [Link](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
