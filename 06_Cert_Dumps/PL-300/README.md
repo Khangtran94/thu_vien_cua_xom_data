@@ -1,6 +1,6 @@
 # 🧠 Tài Nguyên Ôn Thi PL-300 – Microsoft Power BI Data Analyst
 
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="300"/>
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100"/>
 
 Chứng chỉ **PL-300** là một trong những chứng chỉ phổ biến nhất cho các bạn làm việc trong mảng **Business Intelligence** và **Data Analysis** với Power BI.
 
