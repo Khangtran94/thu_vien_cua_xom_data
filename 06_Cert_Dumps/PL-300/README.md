@@ -39,7 +39,3 @@ Nếu bạn đã có kinh nghiệm thực chiến thì phần lớn đề thi s�
 ## 📌 Đóng góp thêm tài liệu?
 
 Bạn có thể tạo pull request hoặc mở issue trên repo này để chia sẻ thêm nguồn học và kinh nghiệm thi nhé!
-
----
-
-Bạn muốn mình thêm phần nào nữa? Ví dụ: file PDF ôn tập, mindmap kiến thức, checklist trước khi thi?
